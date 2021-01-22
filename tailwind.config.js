@@ -9,8 +9,11 @@ module.exports = {
         red: colors.red,
       },
       fontFamily: {
+        "bot": ["Roboto",],
         "open": ["OpenSans",],
         "mont": ["Montserrat",],
+        "merri": ["Merriweather",],
+        "rale": ["Raleway",],
       },
     },
   },
